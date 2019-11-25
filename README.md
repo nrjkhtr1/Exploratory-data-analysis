@@ -10,9 +10,14 @@ In order to run this you need to have:
   
   
 ## Usage
-Run the recommendation_system.ipynb
+Run the Iris Data set EDA.ipynb
 ```bash
-recommendation_system.ipynb
+Iris Data set EDA.ipynb
+```
+
+Run the Haberman Data set.ipynb
+```bash
+Iris Data set EDA.ipynb
 ```
 
 ## Purpose
