@@ -7,26 +7,27 @@ In order to run this you need to have:
   2. Numpy
   3. Matplotlib
   4. Pandas
+  5. Seaborne
   
   
 ## Usage
-Run the Iris Data set EDA.ipynb
+Fir Iris Dataset
 ```bash
 Iris Data set EDA.ipynb
 ```
 
-Run the Haberman Data set.ipynb
+For haberman
 ```bash
-Iris Data set EDA.ipynb
+haberman EDA.ipynb
 ```
 
 ## Purpose
-We created this recommendation system as a part of our CS 386 (IIT Goa) course.
+This was my first machine learning project.
 
 
 ## Contributing
 Any suggestions in improving are appreciated.
 
 
-This dataset is available 
-<a href="https://old.datahub.io/dataset/movielens/resource/b9792332-c0aa-44ee-b7aa-faa979b1acf0">here</a>
+This dataset is available as cvs file in the same repository.
+
